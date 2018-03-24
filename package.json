@@ -1,5 +1,5 @@
 {
-  "name": "localserver",
+  "name": "localserver-wv",
   "version": "1.0.0",
   "description": "npm -i -g anydoor",
   "main": "src/app.js",
