@@ -1,0 +1,32 @@
+{
+  "name": "localserver",
+  "version": "1.0.0",
+  "description": "npm -i -g anydoor",
+  "main": "src/app.js",
+  "bin": {
+    "localserer": "bin/localserver"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "eslint": "^4.19.0",
+    "handlebars": "^4.0.11",
+    "path": "^0.12.7",
+    "supervisor": "^0.12.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wvit/anydoor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wvit/anydoor/issues"
+  },
+  "homepage": "https://github.com/wvit/anydoor#readme"
+}
