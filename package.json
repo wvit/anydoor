@@ -1,7 +1,7 @@
 {
   "name": "localserver-wv",
-  "version": "1.0.0",
-  "description": "npm -i -g anydoor",
+  "version": "1.0.2",
+  "description": "npm -i -g localserver",
   "main": "src/app.js",
   "bin": {
     "localserer": "bin/localserver"
